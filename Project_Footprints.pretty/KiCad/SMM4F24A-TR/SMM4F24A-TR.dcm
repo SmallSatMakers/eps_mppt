@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SMM4F24A-TR
+D ESD Suppressors / TVS Diodes Hi Temp Transil Diode
+K
+F https://www.st.com/resource/en/datasheet/smm4f10a.pdf
+$ENDCMP
+#
+#End Doc Library

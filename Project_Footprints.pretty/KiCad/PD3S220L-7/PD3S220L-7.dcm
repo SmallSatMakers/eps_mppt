@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PD3S220L-7
+D Schottky Rectifier, 20 V, 2 A, Single, PowerDI 323, 2 Pins, 490 mV
+K
+F https://www.diodes.com//assets/Datasheets/ds31733.pdf
+$ENDCMP
+#
+#End Doc Library

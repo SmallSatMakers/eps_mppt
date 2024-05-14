@@ -1,0 +1,24 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model SMM4F24A-TR
+#/770924/1131861/2.50/3/4/Zener Diode
+DEF SMM4F24A-TR Z 0 30 Y Y 1 F N
+F0 "Z" 750 300 50 H V L CNN
+F1 "SMM4F24A-TR" 750 200 50 H V L CNN
+F2 "SMM4F15ATR" 750 100 50 H I L CNN
+F3 "https://www.st.com/resource/en/datasheet/smm4f10a.pdf" 750 0 50 H I L CNN
+F4 "ESD Suppressors / TVS Diodes Hi Temp Transil Diode" 750 -100 50 H I L CNN "Description"
+F5 "" 750 -200 50 H I L CNN "Height"
+F6 "511-SMM4F24A-TR" 750 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/SMM4F24A-TR?qs=ppWA7IX8Fw7n6eOodwCgJg%3D%3D" 750 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "STMicroelectronics" 750 -500 50 H I L CNN "Manufacturer_Name"
+F9 "SMM4F24A-TR" 750 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X K_1 1 0 -200 200 R 50 50 0 0 P
+X A 2 0 0 200 R 50 50 0 0 P
+X K_2 3 0 -100 200 R 50 50 0 0 P
+P 5 0 1 6 200 100 700 100 700 -300 200 -300 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

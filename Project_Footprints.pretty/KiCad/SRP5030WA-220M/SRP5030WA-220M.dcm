@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SRP5030WA-220M
+D Ind,5.5x5.25x2.8mm,22uH+/-20%,2.2A,shd
+K
+F https://g.componentsearchengine.com/Datasheets/0/17601786.pdf
+$ENDCMP
+#
+#End Doc Library
